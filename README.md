@@ -30,6 +30,7 @@
 ### 鸣谢
 
 - [《数据密集型应用系统设计》精华整理](https://github.com/fuxuemingzhu/DDIA-Reading-Notes)
+- [华为IP知识百科](https://info.support.huawei.com/info-finder/encyclopedia/zh/index)
 
 <!-- links -->
 [your-project-path]:pehmc/edc-handbook
