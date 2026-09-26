@@ -1,5 +1,6 @@
 <div align="center">
   <h3>EDC HandBook</h3>
+  <img src="./logo.png" />
   <p>
     企业级数据中心手册
     <br />
