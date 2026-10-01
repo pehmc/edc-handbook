@@ -1,21 +1,21 @@
 <div align="center">
-  <h3>EDC HandBook</h3>
+  <h1>EDC HandBook</h1>
   <p>
     企业级数据中心手册
     <br />
     <a href="https://github.com/pehmc/edc-handbook/releases">下载pdf</a>
     ·
-    <a href="https://github.com/pehmc/edc-handbook/issues">报告Bug</a>
+    <a href="https://github.com/pehmc/edc-handbook/issues">报告错误</a>
   </p>
 </div>
 
 <div align="center">
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
+<p align="center">
+  <a href="https://www.gnu.org/licenses/agpl-2.0.html"><img src="https://img.shields.io/badge/License-AGPL--2.0-blue.svg" alt="License: AGPL-2.0"></a>
+  <a href="https://www.bing.com/"><img src="https://img.shields.io/badge/Platform-Web-green.svg" alt="Platform: Web"></a>
+  <a href="http://linux-wiki.cn/wiki/Shell"><img src="https://img.shields.io/badge/Language-Script-orange.svg" alt="Language: Script"></a>
+</p>
 
 </div>
 
@@ -31,19 +31,6 @@
 
 - [《数据密集型应用系统设计》精华整理](https://github.com/fuxuemingzhu/DDIA-Reading-Notes)
 - [华为IP知识百科](https://info.support.huawei.com/info-finder/encyclopedia/zh/index)
-
-<!-- links -->
-[your-project-path]:pehmc/edc-handbook
-[contributors-shield]: https://img.shields.io/github/contributors/pehmc/edc-handbook.svg?style=flat-square
-[contributors-url]: https://github.com/pehmc/edc-handbook/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/pehmc/edc-handbook.svg?style=flat-square
-[forks-url]: https://github.com/pehmc/edc-handbook/network/members
-[stars-shield]: https://img.shields.io/github/stars/pehmc/edc-handbook.svg?style=flat-square
-[stars-url]: https://github.com/pehmc/edc-handbook/stargazers
-[issues-shield]: https://img.shields.io/github/issues/pehmc/edc-handbook.svg?style=flat-square
-[issues-url]: https://img.shields.io/github/issues/pehmc/edc-handbook.svg
-[license-shield]: https://img.shields.io/github/license/pehmc/edc-handbook.svg?style=flat-square
-[license-url]: https://github.com/pehmc/edc-handbook/blob/master/LICENSE.txt
 
 
 
